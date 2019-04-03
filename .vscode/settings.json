@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/plato/anaconda3/envs/jupy/bin/python"
+    "python.pythonPath": "C:\\Users\\Playdata\\Anaconda3\\envs\\tacotron\\python.exe",
+    "git.ignoreLimitWarning": true
 }
