@@ -8,3 +8,5 @@ run*.sh
 *.npy
 .wav
 *.txt
+*.tar
+*.bz2
