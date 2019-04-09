@@ -1,0 +1,2 @@
+logs-tacotron/** filter=lfs diff=lfs merge=lfs -text
+content/tacotest/logs-tacotron/** filter=lfs diff=lfs merge=lfs -text
